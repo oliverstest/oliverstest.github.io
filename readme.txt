@@ -1,14 +1,34 @@
-**Material Design Portfolio Template**
-v1.0.1
-Released Date: 24th Jan, 2017
+Stellar by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-A Material design portfolio template built with Material Design Light framework by TemplateFlip.com.
 
-Live Demo - https://demo.templateflip.com/material-portfolio
-Download - https://templateflip.com/templates/material-portfolio/
+Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
+I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
+nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
+you need one), and an assortment of pre-styled elements.
 
-You may also want to check out other Website templates - https://templateflip.com/templates/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-License
+(* = not included)
 
-Licensed under the Creative Commons Attribution 3.0 license. You can use this template for free in both personal as well as commercial projects. In return, just credit https://templateflip.com for the website template on your site.
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		Respond.js (j.mp/respondjs)
+		Scrollex (@ajlkn)
+		Skel (skel.io)
